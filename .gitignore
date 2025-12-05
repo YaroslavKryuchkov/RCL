@@ -41,5 +41,6 @@
 *.dwo
 
 /bin
+/build
 /test
 /project
